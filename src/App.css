@@ -1,0 +1,4 @@
+.card-image:hover {
+    cursor: pointer;
+    border: 2px solid rgb(166, 142, 255);
+}
